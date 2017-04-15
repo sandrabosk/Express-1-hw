@@ -1,0 +1,260 @@
+body{
+  background-color: #000000;
+}
+
+.blue-box{
+background-color: #0000b2;
+width: 80%;
+margin-left: 10%;
+margin-top: 4%;
+border-radius: 6px;
+margin-right: 10%;
+}
+
+.top-menu {
+    margin-left: -20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'open sans', 'arial','serif', 'sans-serif';
+    font-weight: bold;
+  }
+  li {
+    display: inline;
+    padding: 15px;
+  }
+
+  .top-menu li>a {
+    color: #ffffff;
+  }
+  .top-menu li>a:hover {
+    color: #ffffff;
+    border: 0.1px thin;
+    border-radius: 5px;
+    background-color: #4c4cff;
+    padding: 5px;
+    text-decoration: none;
+  }
+
+  .red-logo{
+    height: 40px;
+    width: 40px;
+    margin-top: -20px;
+  }
+
+.novak1{
+  width: 80%;
+  height: 50%;
+  margin-left: 10%;
+  margin-right: 10%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.mid-left{
+  background-color: #4c4cff;
+  margin-left: 10%;
+  border-radius: 5px;
+  width: 40%;
+  color: #fff;
+}
+
+.mid-right{
+  background-color: #ffffff;
+  margin-right: 10%;
+  float: right;
+  border-radius: 5px;
+  width: 37%;
+  font-size: 12px;
+}
+
+#mctour{
+  width: 100%;
+}
+
+h5{
+  color:#4c4cff;
+}
+
+#montecarlo{
+  width: 50px;
+  height: 50px;
+  float: right;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+
+.tourn{
+  font-size: 14px;
+  color: #808080;
+  font-weight: bold;
+  border-bottom: 1px solid grey;
+}
+
+.x{
+  margin-left: -15px;
+}
+
+.second{
+  margin-top: 3%;
+}
+
+#flagphoto{
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.brands{
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 80%;
+  margin-right: 10%;
+}
+
+#uniqlo{
+  width: 40px;
+  height: 40px;
+}
+
+#adidas{
+  width: 50px;
+  height: 35px;
+}
+
+#seiko{
+  width: 65px;
+  height: 35px;
+}
+
+#head{
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+#jacobs{
+  width: 65px;
+  height: 45px;
+}
+
+.foot{
+  border-top: 2px solid #3f3f3f;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+.bottom-menu {
+    margin-top: 3%;
+    font-family: 'open sans', 'arial','serif', 'sans-serif';
+    font-weight: bold;
+  }
+
+.bottom-menu li>a {
+    color:#939393;
+  }
+
+.bottom-menu li>a:hover {
+    color: #ffffff;
+    border: 0.1px thin;
+    border-radius: 5px;
+    background-color: #d3d3d3;
+    padding: 5px;
+    text-decoration: none;
+  }
+
+.up{
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+
+#dare{
+    width: 80%;
+    height: 5%;
+  }
+
+#novak2{
+    width: 60%;
+    height: 65%;
+    margin-left: 20%;
+  }
+
+p{
+    font-family: 'open sans', 'arial','serif', 'sans-serif';
+  }
+
+.words{
+    color: #ffffff;
+    margin-top: 30%;
+    font-style: italic;
+  }
+
+.about{
+    background-color: #ffffff;
+    color: #282828;
+    margin-top: 12%;
+  }
+
+.year{
+    color: #990000;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10%;
+  }
+
+.bio{
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 5%;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+#win{
+  width: 100px;
+  height: 150px;
+  float: left;
+  margin-right: 20px;
+}
+
+.blue-right{
+  background-color: #4c4cff;
+  color: #ffffff;
+}
+
+#novak3{
+  width: 50px;
+  height: 50px;
+}
+#nole{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-top: 5%;
+}
+
+.light-blue{
+  background-color: #6666ff;
+  border-radius: 5px;
+  margin-left: -25%;
+  margin-top: 10%;
+  margin-right: -10%;
+}
+.info{
+  color: #f1f1f1;
+  margin-left: 3%;
+  font-weight: bold;
+}
+.info1{
+  margin-left: 7%;
+}
+
+.photo-caption{
+  margin-left: 35%;
+  letter-spacing: 3px;
+}
+.photo{
+  width: 250px;
+  height: 170px;
+  margin: 20px;
+}
